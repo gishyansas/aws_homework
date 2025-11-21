@@ -3,7 +3,7 @@
 
 ### Github -> Settings -> Secrets and variables -> Actions - New Repository Secret
 
-В Settings → Secrets and variables → Actions настроены следующие переменные:
+В Settings → Secrets and variables → Actions
 
 - `AWS_ACCESS_KEY_ID` — IAM user Key
 - `AWS_SECRET_ACCESS_KEY` — IAM user Secret key
