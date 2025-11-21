@@ -13,6 +13,5 @@
 - `EC2_SSH_KEY` — SSH-key.
 
 ### Workflow
-
 1. I created .github/workflows/deploy.yml
 2. GitHub Actions start workflow `deploy.yml (Remote SSH Command)`.
